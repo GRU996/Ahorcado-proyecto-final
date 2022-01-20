@@ -87,7 +87,7 @@ public class proyecto_final {
 		};
 
 		// < Interfaz principal >
-		System.out.println("¡Bienvenido al juego del Ahorcado! - Autor: Diego Breeze\n");
+		System.out.println("¡Bienvenido al juego del Ahorcado! - Autor: Pepsi\n");
 		System.out.println("──────────────────────────────────────");
 		System.out.println("                                     |”‚");
 		System.out.println("                                     |”‚");

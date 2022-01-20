@@ -1,8 +1,6 @@
 /*
  * PROYECTO FINAL ITS 2021: Juego del ahorcado.
- * Nombre: Diego Nicolas Breeze Miralles.
- * Cedula: 5.5513.039-1.
- * GitHub <link>.
+ * Nombre: UniversePepsi
  */
 import java.util.Random;
 import java.util.Scanner;

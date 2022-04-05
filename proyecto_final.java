@@ -1,5 +1,5 @@
 /*
- * PROYECTO FINAL ITS 2021: Juego del ahorcado.
+ * PROYECTO FINAL UTU 2021: Juego del ahorcado.
  * Nombre: UniversePepsi
  */
 import java.util.Random;

@@ -1,6 +1,6 @@
 /*
  * PROYECTO FINAL UTU 2021: Juego del ahorcado.
- * Nombre: UniversePepsi
+ * Nombre: Diego Breeze
  */
 import java.util.Random;
 import java.util.Scanner;
